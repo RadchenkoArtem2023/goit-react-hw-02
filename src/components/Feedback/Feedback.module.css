@@ -1,0 +1,12 @@
+.feedback {
+  margin-top: 20px;
+}
+
+.statistics {
+  list-style: none;
+  padding: 0;
+}
+
+.feedbackListItem {
+  color: black;
+}
